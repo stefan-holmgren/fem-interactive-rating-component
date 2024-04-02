@@ -236,12 +236,20 @@ section p {
     width: 3.1875rem;
   }
 
+  .section-unrated img {
+    padding: 1rem;
+  }
+
   section p {
     margin-top: 1rem;
   }
 
   .section-unrated button {
     margin-top: 2rem;
+  }
+
+  .section-unrated h2 {
+    margin-top: 1.875rem;
   }
 
   .section-rated img {
